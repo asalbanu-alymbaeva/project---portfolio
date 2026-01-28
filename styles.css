@@ -1,0 +1,21 @@
+#profile_photo{
+    width: 150px;
+    border-radius: 50%;
+}
+header{
+    text-align: center;
+}
+.experience__company{
+    color: green;
+}
+#parts__section{
+    text-align: center;
+    color: gray;
+}
+table{
+    width: 100%;
+    text-align: left    ;
+}
+.field{
+    margin-bottom: 5px;
+}
