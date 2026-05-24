@@ -6,3 +6,6 @@ In this project, I only used the fundamentals of HTML and some of the core CSS s
 Next, I will update this project with some more details and styles with CSS
 
 I will create the structure with semantic elements in HTML
+
+Preview:
+https://helpful-toffee-156e98.netlify.app/
